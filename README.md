@@ -12,14 +12,23 @@ ________________________________________________________________________________
 The Scripts are sorted by danger level: 
 
 good (GOOD) = useful, might help with performance etc.
+
 prank (PR) = little pranks to shock friends and confuse them
+
 annoying (ANOY) = common things like permanent spam, scheduled shutdown etc.
+
 setup (ST) = setup like port-opening and other stuff that might help with further exfiltration
+
 exfiltration-without-harm (ENH) = data collection and potential outfiling
+
 spy (SPY) = things like keylogger, long-term exfiltration etc.
+
 deletion (DEL) = file deletion (yes... it's that simple..)
+
 exfiltration-with-harm (EYH) = data collection with potential deletion of copied data 
+
 destruction (PRAY) = messes with paths, filenames, important files 
+
 massacre/death (GAMEOVER) = basically kills your PC (system32) or makes it unusable
 ______________________________________________________________________________________________
 
