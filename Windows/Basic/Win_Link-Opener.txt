@@ -1,0 +1,7 @@
+REM Made By Lefynn1224
+DELAY 1000
+GUI r
+DELAY 500
+STRING <your url here>
+DELAY 200
+ENTER
