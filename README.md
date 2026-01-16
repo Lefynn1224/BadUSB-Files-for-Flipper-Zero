@@ -5,11 +5,11 @@ Basically Plug-and-Play but some require a change or two to fully work.
 
 There won't be any Exfiltration using methods NOT mentioned here: Discord-Webhook, USB
 
-IMPORTANT: BE RESPONSIBLE! NEVER TEST A HAZARDOUS SCRIPT ON PROPERTY THAT ISN'T YOURS! 
+### IMPORTANT: BE RESPONSIBLE! NEVER TEST A HAZARDOUS SCRIPT ON PROPERTY THAT ISN'T YOURS! 
 
 ______________________________________________________________________________________________
 
-The Scripts are sorted by danger level: 
+## The Scripts are sorted by danger level or can be specified using the tags below: 
 
 good (GOOD) = useful, might help with performance etc.
 
@@ -32,15 +32,16 @@ destruction (PRAY) = messes with paths, filenames, important files
 massacre/death (GAMEOVER) = basically kills your PC (system32) or makes it unusable
 ______________________________________________________________________________________________
 
-The Scripts can also be specified by their duration*:
-
+## The Scripts can also be specified by their duration*:
+```
 Instant (1-2 s)
 Short-term (1-5 min)
 Lingering (1-12 hours)
 Long-term (1 day - forever)
+```
 ______________________________________________________________________________________________
 
-Lastly i'll also add an estimated runtime to each description to make the usage more visible.
+## Lastly i'll also add an estimated runtime to each description to make the usage more visible.
 ______________________________________________________________________________________________
 
 
