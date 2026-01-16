@@ -1,7 +1,8 @@
 REM Made By Lefynn1224
-DELAY 1000
+DELAY 200
 GUI r
 DELAY 500
-STRING <your url here>
+STRING <URL here>
 DELAY 200
+
 ENTER
